@@ -14,7 +14,7 @@ namespace SendGridTemplateSample
         // Todo: Add your company name 
         private const string FromName = "Your Company Name";
         // Todo: replace with your send grid api key
-        private const string SendGridApiKey = "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";
+        private const string SendGridApiKey = "YourApiKeyHere";
         private readonly string _basePath;
         private readonly SendGridClient _client;
 
